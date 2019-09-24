@@ -1,6 +1,6 @@
 ## Welcome to GitHub sxf
 
-You can use the [editor on GitHub](https://github.com/sxf0420/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本人是一名就读于西安电子科技大学计算机专业的研究生，主要研究方向为物联网安全和密码学，熟悉C和JAVA等编程语言。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
