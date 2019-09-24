@@ -2,7 +2,7 @@
 
 本人是一名就读于西安电子科技大学计算机专业的研究生，主要研究方向为物联网安全和密码学，熟悉C和JAVA等编程语言。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一下是我在学习过程中收集和总结的资料，给大家分享一下
 
 ### 文章
 
@@ -19,5 +19,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```
 ### 密码学论文及PPT
-1.[F-IBE的PPT](https://github.com/sxf0420/pages/raw/master-1/Eurocrypt2005.ppt).
+1.[F-IBE-PPT](https://github.com/sxf0420/pages/raw/master-1/Eurocrypt2005.ppt).  
+2.[F-IBE](https://github.com/sxf0420/pages/raw/master/Eurocrypt2005.pdf).  
+3.[Waters2005_Chapter_EfficientIdentity-BasedEncrypt](https://github.com/sxf0420/pages/raw/master-1/Waters2005_Chapter_EfficientIdentity-BasedEncrypt.pdf).  
+4.[Protecting Your Right：Attribute-based Keyword](https://github.com/sxf0420/pages/raw/master-1/Protecting%20Your%20Right%EF%BC%9AAttribute-based%20Keyword.pdf).  
+5.[A lightweight attribute-based encryption scheme for the Internet of Things](https://github.com/sxf0420/pages/raw/master-1/13A%20lightweight%20attribute-based%20encryption%20scheme%20for%20the.pdf).  
+6.[A light-PPT](https://github.com/sxf0420/pages/raw/master-1/13A%20lightweight%20attribute-based%20encryption%20scheme%20for%20the%20Internet%20of%20Things.ppt).  
+7.[Design and Analysis of Secure Lightweight Remote User Authentication and Key Agreement Scheme in Internet of Drones Deployment](https://github.com/sxf0420/pages/raw/master-1/3Design%20and%20Analysis%20of%20Secure%20Lightweight%20Remote%20User%20Authentication%20and%20Key%20Agreement%20Scheme%20in%20Internet%20of%20Drones%20Deployment.pdf).  
+8.[Design and Analysis-PPT](https://github.com/sxf0420/pages/raw/master-1/3%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%AE%BA%E6%96%87.ppt).  
+
+
 编辑器介绍 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
