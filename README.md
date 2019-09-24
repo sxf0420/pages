@@ -1,8 +1,12 @@
-## Welcome to GitHub sxf
+## 欢迎来到我的GitHub主页
 
 本人是一名就读于西安电子科技大学计算机专业的研究生，主要研究方向为物联网安全和密码学，熟悉C和JAVA等编程语言。
 
 一下是我在学习过程中收集和总结的资料，给大家分享一下
+```欢迎来到我的GitHub主页
+我的联系方式：xfsong@stu.xidian.edu.cn；1114708754@qq.com
+
+```
 
 ### 文章
 
@@ -14,10 +18,6 @@
 4.[C语言快速幂](https://mp.weixin.qq.com/s?__biz=MzIxODM5ODIxNw==&mid=2247483693&idx=1&sn=4030063f443629b003abc344b10100aa&chksm=97ea6a4ba09de35df83093f3dcaf5f57656e93eb4741c071d8d8b6fd8aae001b56cb89e4c1fc&token=1874540791&lang=zh_CN#rd).  
 5.[C语言并查集](https://mp.weixin.qq.com/s?__biz=MzIxODM5ODIxNw==&mid=2247483690&idx=1&sn=814306c545a37cca74b3d202a0723a63&token=1874540791&lang=zh_CN#rd).  
 
-```文章
-一个新的板块
-
-```
 ### 密码学论文及PPT
 1.[F-IBE-PPT](https://github.com/sxf0420/pages/raw/master-1/Eurocrypt2005.ppt).  
 2.[F-IBE](https://github.com/sxf0420/pages/raw/master/Eurocrypt2005.pdf).  
